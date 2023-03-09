@@ -4,5 +4,5 @@ Repositório de exemplos e exercícios relacionados ao módulo básico de Java (
 
 ### [Exercício de Criação de Algoritmo "SmartTV"](./SmartTv/sistema_smart_tv/src/edu/fawkesc05/java/basico/smarttv)
 
-![[smarttv-smart.png]]
-![[smarttv-user.png]]
+![SmartTv](./images/smarttv-smart.png)
+![User](./images/smarttv-user.png)
